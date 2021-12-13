@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\MGLTools-1.5.7\python.exe" "c:\Program Files (x86)\MGLTools-1.5.7\Lib\site-packages\AutoDockTools\Utilities24\prepare_ligand4.py" -l %1.pdb 

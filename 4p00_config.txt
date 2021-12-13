@@ -1,7 +1,5 @@
-receptor = /home/teacher/docking/flavonoids/rec/4p00_rec.pdbqt
-#ligand = /home/teacher/docking/flavonoids/rec/*.pdbqt
+receptor = 4p00_receptor.pdbqt
 num_modes = 50
-#out = /home/teacher/docking/flavonoids/rec/r-*.pdbqt
 center_x=-38
 center_y=-32
 center_z=-22
